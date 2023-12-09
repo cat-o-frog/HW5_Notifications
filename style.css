@@ -1,0 +1,56 @@
+body {
+  background: #f4fafc;
+  img {
+    margin: 10px;
+    height: 130px;
+  }
+}
+div {
+display: inline-block;
+  flex-shrink: 0;
+  border-radius: 12px;
+  background: #fff;
+  padding: 20px;
+  margin: 5px;
+}
+
+.cross {
+  height: 10px;
+  float: right;
+}
+.name {
+  color: #86898C;
+font-family: Barlow;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.theme {
+  color: #C488E0;
+font-family: Barlow;
+font-size: 17px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.time {
+  color: #86929D;
+font-family: Barlow;
+font-size: 9px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.whatever {
+  color: #86929D;
+font-family: Barlow;
+font-size: 10px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+  float: right;
+}
